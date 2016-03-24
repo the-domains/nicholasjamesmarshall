@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NicholasJamesMarshall]]></title>
         <description><![CDATA[NicholasJamesMarshall]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nicholasjamesmarshall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 05:12:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 05:35:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nicholasjamesmarshall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is me.</p>]]></description>
+            <link>https://thegrid.ai/nicholasjamesmarshall/4fd886b0-8544-4318-a0db-38132283be62/index.html</link>
+            <guid isPermaLink="false">4fd886b0-8544-4318-a0db-38132283be62</guid>
+            <pubDate>Thu, 24 Mar 2016 05:35:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6db95a55-91ab-486c-862e-49cce39d4121.jpg">]]></description>
-            <link>undefineda-recent-trip-to-america-to-see-where-the-world-is-heading/index.html</link>
+            <link>https://thegrid.ai/nicholasjamesmarshall/a-recent-trip-to-america-to-see-where-the-world-is-heading/index.html</link>
             <guid isPermaLink="false">c6987f35-0a48-4ee3-9fd0-e3ecb387dc05</guid>
             <pubDate>Thu, 24 Mar 2016 05:11:47 GMT</pubDate>
         </item>
